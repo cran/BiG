@@ -1,0 +1,8 @@
+b2318b78965d11dd63f72f3774b82792 *DESCRIPTION
+76f1d95fb66aea41bea88352bea49ccc *NAMESPACE
+6b26b7e52175f10f004006efe37f1a92 *R/code_Bayes.R
+a6c3bb87e967612846dc8e0dec304f7c *man/BiG_DA.Rd
+f87bbab9c5fe7dc2575ef5c6177e427a *man/BiG_diffuse.Rd
+3021ea0efd83b6c647a0d86c24c6cfd9 *man/init_W.Rd
+78df320bc617cb97ada0df2a3920e4bc *man/qtruncgamma.Rd
+67151279054fc662935d0f02db466873 *man/sim_lvm.Rd
